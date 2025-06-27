@@ -1,1 +1,1 @@
-
+The above cleantechai file is the exec code file that contains all the codes i uploaded in .py file type bcoz i used google colab for deploying my project kindly understand it there all total 6 cell folder that contains the code. the cell 5 the main folder means app.py to open the app Kindly use this in google collab to execute the codes.
